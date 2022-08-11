@@ -5,8 +5,7 @@
 #              in "ToDoToDoList.txt" into a python Dictionary.
 #              Add the each dictionary "row" to a python list "table"
 # ChangeLog (Who,When,What):
-# RRoot,1.1.2030,Created started script
-# <YOUR NAME HERE>,<DATE>,Added code to complete assignment 5
+# HGaylord,8.11.22,Finished Script
 # ------------------------------------------------------------------------ #
 
 # -- Data -- #
